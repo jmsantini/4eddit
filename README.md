@@ -24,5 +24,7 @@ Sendo um projeto ReactJS, há a necessidade do NodeJS. Com o NodeJS  instalado, 
 
 ##  Contato
 João Marcelo Santini
+
 jmsantini@live.com
+
 1499682-1388
